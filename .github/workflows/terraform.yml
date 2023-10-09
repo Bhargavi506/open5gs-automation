@@ -1,4 +1,4 @@
-name: Terraform GitHub Actions
+name: Terraform with GitHub Actions
 on:
    push:
     branches: [main]
